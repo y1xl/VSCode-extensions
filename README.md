@@ -19,6 +19,7 @@
 | [Sublime Text Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) | Sublime Text 快捷键         |
 | [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) | SVG预览                    |
 | [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) | 文件图标主题                   |
+| [Powercode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) | 给代码拍照（做成图片）              |
 
 语法提示
 
