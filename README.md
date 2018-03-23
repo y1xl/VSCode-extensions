@@ -23,18 +23,19 @@
 
 语法提示
 
-| 名称                                       | 简述             |
-| ---------------------------------------- | -------------- |
-| [Bootstrap 3 Snippets](https://marketplace.visualstudio.com/items?itemName=wcwhitehead.bootstrap-3-snippets) | Bootstrap 3 提示 |
-| [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) | css提示（支持vue）   |
-| [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) | H5提示           |
-| [JavaScript (ES6) snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.javascriptsnippets) | JS提示           |
-| [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) | jQuery 提示      |
-| [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) | npm命令提示        |
-| [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) | Sass提示         |
-| [Vetur](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.octref.vetur) | vue提示          |
-| [Vue 2 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets) | vue2提示         |
-| [VueHelper](https://marketplace.visualstudio.com/items?itemName=oysun.vuehelper) | vue提示          |
+| 名称                                       | 简述                         |
+| ---------------------------------------- | -------------------------- |
+| [Bootstrap 3 Snippets](https://marketplace.visualstudio.com/items?itemName=wcwhitehead.bootstrap-3-snippets) | Bootstrap 3 提示             |
+| [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) | css提示（支持vue）               |
+| [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) | H5提示                       |
+| [JavaScript (ES6) snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.javascriptsnippets) | JS提示                       |
+| [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) | jQuery 提示                  |
+| [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) | npm命令提示                    |
+| [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) | react快捷提示（编辑器本身对react支持很好） |
+| [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) | Sass提示                     |
+| [Vetur](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.octref.vetur) | vue提示                      |
+| [Vue 2 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets) | vue2提示                     |
+| [VueHelper](https://marketplace.visualstudio.com/items?itemName=oysun.vuehelper) | vue提示                      |
 
 PHP相关
 
