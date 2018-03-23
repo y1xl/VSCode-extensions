@@ -16,10 +16,10 @@
 | [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) | 对比两段代码或文件（新版内置有）         |
 | [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | 路径完成提示（包含后缀）             |
 | [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode) | 类似atom的敲代码酷炫效果           |
+| [Powercode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) | 给代码拍照（做成图片）              |
 | [Sublime Text Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) | Sublime Text 快捷键         |
 | [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) | SVG预览                    |
 | [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) | 文件图标主题                   |
-| [Powercode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) | 给代码拍照（做成图片）              |
 
 语法提示
 
