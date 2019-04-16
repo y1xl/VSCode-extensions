@@ -6,7 +6,7 @@
 | [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) | 自动闭合HTML标签                |
 | [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | 修改HTML标签时，自动修改相应标签        |
 | [background](https://marketplace.visualstudio.com/items?itemName=shalldie.background) | 给界面添加背景图片                 |
-| [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | 用不同颜色高亮显示匹配的括号            |
+| [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | 用不同颜色高亮显示匹配的括号            |
 | [Can I Use](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-caniuse) | HTML5、CSS3、SVG的浏览器兼容性检查   |
 | [Code Spellchecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | 单词拼写检查（显示绿色波浪线）           |
 | [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline) | 类似atom的大纲视图，支持多种语言（新版已内置） |
