@@ -23,6 +23,7 @@
 | [Sublime Text Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) | Sublime Text 快捷键          |
 | [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) | SVG预览                     |
 | [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) | 文件图标主题                    |
+| [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | 实时git历史记录                       |
 
 语法提示
 
