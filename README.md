@@ -24,6 +24,7 @@
 | [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) | SVG预览                     |
 | [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) | 文件图标主题                    |
 | [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | 实时显示git历史记录                       |
+| [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | 查看引入的依赖模块大小                       |
 
 语法提示
 
