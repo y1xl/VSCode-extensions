@@ -9,14 +9,12 @@
 | [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | 用不同颜色高亮显示匹配的括号            |
 | [Can I Use](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-caniuse) | HTML5、CSS3、SVG的浏览器兼容性检查   |
 | [Code Spellchecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | 单词拼写检查（显示绿色波浪线）           |
-| [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline) | 类似atom的大纲视图，支持多种语言（新版已内置） |
 | [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) | 查看类名对应的样式                 |
 | [Chinese (Simplified) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans) | 简体中文汉化包                   |
 | [EasySass](https://marketplace.visualstudio.com/items?itemName=spook.easysass) | sass自动编译                  |
 | [filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize) | 显示文件大小（左下角）               |
 | [Less IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-less) | less自动编译                  |
-| [Open in Browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | 浏览器预览（可自定义默认浏览器，支持5大浏览器）  |
-| [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) | 对比两段代码或文件（新版已内置）          |
+| [Open in Browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | 浏览器预览（可自定义默认浏览器，支持5大浏览器）  |         |
 | [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | 路径完成提示（包含后缀）              |
 | [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode) | 类似atom的敲代码酷炫效果            |
 | [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) | 给代码拍照（做成图片）               |
@@ -25,6 +23,7 @@
 | [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) | 文件图标主题                    |
 | [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | 实时显示git历史记录                       |
 | [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | 查看引入的依赖模块大小                       |
+| [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | 高亮显示缩进                       |
 
 语法提示
 
