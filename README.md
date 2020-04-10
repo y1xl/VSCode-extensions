@@ -39,7 +39,6 @@
 | [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) | react快捷提示（编辑器本身对react支持很好）  |
 | [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) | Sass提示                      |
 | [Vetur](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.octref.vetur) | vue语法支持                     |
-| [Vue 2 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets) | vue2提示                      |
 | [VueHelper](https://marketplace.visualstudio.com/items?itemName=oysun.vuehelper) | vue提示                       |
 
 PHP相关
